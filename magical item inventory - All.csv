@@ -1,0 +1,356 @@
+Item,Price,Misc,Rarity,Utility,Rarity Weight
+Armor of Gleaming,,,Common,Combat,1
+Bead of Nourishment,,,Common,Non-Combat,1
+Bead of Refreshment,,,Common,Non-Combat,1
+Boots of False Tracks,,,Common,Non-Combat,1
+Candle of the Deep,,,Common,Non-Combat,1
+Cast-Off Armor,,,Common,Combat,1
+Charlatan's Die,,,Common,Non-Combat,1
+Cloak of Billowing,,,Common,Non-Combat,1
+Cloak of Many Fashions,,,Common,Non-Combat,1
+Clockwork Amulet,,,Common,Non-Combat,1
+Clothes of Mending,,,Common,Non-Combat,1
+Dark Shard Amulet,,Spell Weapon,Common,Combat,1
+Dread Helm,,,Common,Combat,1
+Ear Horn of Hearing,,,Common,Non-Combat,1
+Enduring Spellbook,,,Common,Non-Combat,1
+Ersatz eye,,,Common,Non-Combat,1
+Hat of Vermin,,,Common,Non-Combat,1
+Hat of Wizardry,,Spell Weapon,Common,Combat,1
+Heward’s Handy Spice Pouch,,,Common,Non-Combat,1
+Horn of Silent Alarm,,,Common,Non-Combat,1
+Instrument of Illusion,,Instrument,Common,Non-Combat,1
+Instrument of Scribing,,Instrument,Common,Non-Combat,1
+Lock of Trickery,,,Common,Non-Combat,1
+Moon-Touched Sword,,,Common,Combat,1
+Mystery Key,,,Common,Non-Combat,1
+Orb of Direction,,,Common,Non-Combat,1
+Orb of Time,,,Common,Non-Combat,1
+Perfume of Bewitching,,,Common,Non-Combat,1
+Pipe of Smoke Monsters,,,Common,Non-Combat,1
+Pole of Angling,,,Common,Non-Combat,1
+Pole of Collapsing,,,Common,Non-Combat,1
+Pot of Awakening,,,Common,Non-Combat,1
+Potion of Climbing,180,Potion,Common,Consumable,1
+Potion of Healing,50,Healing Potion,Common,Consumable,1
+Rope of Mending,,,Common,Non-Combat,1
+Ruby of the War Mage,,Spell Weapon,Common,Combat,1
+Shield of Expression,,,Common,Combat,1
+Smoldering Armor,,,Common,Combat,1
+Spell Scroll (1st Level),60,Scroll,Common,Consumable,1
+Spell Scroll (cantrip),10,Scroll,Common,Consumable,1
+Staff of Adornment,,,Common,Combat,1
+Staff of Birdcalls,,Spell Weapon,Common,Combat,1
+Staff of Flowers,,Spell Weapon,Common,Combat,1
+Talking Doll,,,Common,Non-Combat,1
+Tankard of Sobriety,,,Common,Non-Combat,1
+Unbreakable Arrow,,,Common,Combat,1
+Veteran's Cane,,,Common,Combat,1
+Walloping Ammunition,,,Common,Combat,1
+Wand of Conducting,,Spell Weapon,Common,Combat,1
+Wand of Pyrotechnics,,Spell Weapon,Common,Combat,1
+Wand of Scowls,,Spell Weapon,Common,Combat,1
+Wandof Smiles,,Spell Weapon,Common,Combat,1
+Adamantine Armor,500,,Uncommon,Combat,2
+Alchemy Jug,6000,,Uncommon,Game-Changers,2
+Ammunition +1,25,,Uncommon,Combat,2
+Amulet of proof against detection and location,20000,,Uncommon,Non-Combat,2
+Bag of Holding,4000,,Uncommon,Non-Combat,2
+Boots of Elvenkind,2500,,Uncommon,Non-Combat,2
+Boots of Striding and Springing,5000,,Uncommon,Non-Combat,2
+Boots of the Winterlands,10000,,Uncommon,Non-Combat,2
+Bracers of Archery,1500,,Uncommon,Combat,2
+Brooch of Shielding,7500,,Uncommon,Combat,2
+Broom of Flying,8000,,Uncommon,Game-Changers,2
+Cap of Water Breathing,1000,,Uncommon,Non-Combat,2
+Circlet of Blasting,1500,,Uncommon,Combat,2
+Cloak of Elvenkind,5000,,Uncommon,Non-Combat,2
+Cloak of Protection,3500,,Uncommon,Combat,2
+Cloak of the Manta Ray,6000,,Uncommon,Non-Combat,2
+Decanter of Endless Water,135000,,Uncommon,Game-Changers,2
+Deck of Illusions,6120,,Uncommon,Consumable,2
+Driftglobe,750,,Uncommon,Non-Combat,2
+Dust of Disappearance,300,,Uncommon,Consumable,2
+Dust of Dryness,120,,Uncommon,Consumable,2
+Dust of Sneezing and Choking,480,,Uncommon,Consumable,2
+Elemental Gem,960,,Uncommon,Consumable,2
+Eversmoking Bottle,1000,,Uncommon,Non-Combat,2
+Eyes of Charming,3000,,Uncommon,Non-Combat,2
+Eyes of Minute Seeing,2500,,Uncommon,Non-Combat,2
+Eyes of the Eagle,2500,,Uncommon,Non-Combat,2
+Figurine of wondrous power (silver raven),5000,,Uncommon,Summoning,2
+Gauntlets of Ogre Power,8000,,Uncommon,Combat,2
+Gem of Brightness,2500,,Uncommon,Consumable,2
+Gloves of Missile Snaring,3000,,Uncommon,Combat,2
+Gloves of Swimming and Climbing,2000,,Uncommon,Non-Combat,2
+Gloves of Thievery,5000,,Uncommon,Non-Combat,2
+Goggles of Night,1500,,Uncommon,Non-Combat,2
+Hat of Disguise,5000,,Uncommon,Non-Combat,2
+Headband of Intellect,8000,,Uncommon,Combat,2
+Helm of Comprehend Languages,500,,Uncommon,Non-Combat,2
+Helm of Telepathy,12000,,Uncommon,Non-Combat,2
+Immovable Rod,5000,,Uncommon,Non-Combat,2
+Instrument of the bard (Doss lute),28500,Instrument,Uncommon,Combat,2
+Instrument of the bard (Fochlucan bandore),26500,Instrument,Uncommon,Combat,2
+Instrument of the bard (Mac-Fuirmidh cittern),27000,Instrument,Uncommon,Combat,2
+Javelin of Lightning,1500,,Uncommon,Combat,2
+Keoghtoms ointment,120,,Uncommon,Consumable,2
+Lantern of Revealing,5000,,Uncommon,Non-Combat,2
+Luckstone,4200,,Uncommon,Combat,2
+Mariner’s armor,1500,,Uncommon,Non-Combat,2
+Medallion of Thoughts,3000,,Uncommon,Non-Combat,2
+Mithral Armor,800,,Uncommon,Combat,2
+Necklace of adaptation,1500,,Uncommon,Non-Combat,2
+Oil of Slipperiness,480,,Uncommon,Consumable,2
+Pearl of Power,6000,,Uncommon,Combat,2
+Periapt of Health,5000,,Uncommon,Non-Combat,2
+Periapt of Wound Closure,5000,,Uncommon,Combat,2
+Philter of Love,90,,Uncommon,Consumable,2
+Pipes of Haunting,6000,Instrument,Uncommon,Combat,2
+Pipes of the Sewers,2000,,Uncommon,Combat,2
+Potion of Animal Friendship,200,,Uncommon,Consumable,2
+Potion of Fire Breath,150,,Uncommon,Consumable,2
+Potion of Greater Healing,300,Healing Potion,Uncommon,Consumable,2
+Potion of Growth,270,,Uncommon,Consumable,2
+Potion of Poison,100,,Uncommon,Consumable,2
+Potion of Resistance,300,,Uncommon,Consumable,2
+Potion of Water Breathing,180,,Uncommon,Consumable,2
+Quiver of Ehlonna,1000,,Uncommon,Non-Combat,2
+Ring of Jumping,2500,,Uncommon,Non-Combat,2
+Ring of Mind Shielding,16000,,Uncommon,Non-Combat,2
+Ring of Swimming,3000,,Uncommon,Non-Combat,2
+Ring of Warmth,1000,,Uncommon,Non-Combat,2
+Ring of Water Walking,1500,,Uncommon,Non-Combat,2
+Rod of the Pact Keeper +1,12000,Spell Weapon,Uncommon,Combat,2
+Rope of Climbing,2000,,Uncommon,Non-Combat,2
+Saddle of the Cavalier,2000,,Uncommon,Combat,2
+Sending Stones,2000,,Uncommon,Game-Changers,2
+Sentinel Shield,20000,,Uncommon,Combat,2
+Shield +1,1500,,Uncommon,Game-Changers,2
+Slippers of Spider Climbing,5000,,Uncommon,Non-Combat,2
+Spell Scroll (2nd Level),120,Scroll,Uncommon,Consumable,2
+Spell Scroll (3rd Level),200,Scroll,Uncommon,Consumable,2
+Staff of the Adder,1800,Spell Weapon,Uncommon,Combat,2
+Staff of the Python,2000,Spell Weapon,Uncommon,Summoning,2
+Trident of Fish Command,800,,Uncommon,Non-Combat,2
+Wand of Magic Detection,1500,Spell Weapon,Uncommon,Non-Combat,2
+Wand of Magic Missiles,8000,Spell Weapon,Uncommon,Combat,2
+Wand of Secrets,1500,Spell Weapon,Uncommon,Non-Combat,2
+Wand of the War Mage +1,1200,Spell Weapon,Uncommon,Combat,2
+Wand of Web,8000,Spell Weapon,Uncommon,Combat,2
+Weapon +1,1000,,Uncommon,Combat,2
+Weapon of Warning,60000,,Uncommon,Combat,2
+Wind Fan,1500,,Uncommon,Combat,2
+Winged Boots,8000,,Uncommon,Game-Changers,2
+Ammunition +2,100,,Rare,Consumable,3
+Amulet of Health,8000,,Rare,Combat,3
+Armor +1,1500,,Rare,Game-Changers,3
+Armor of Resistance,6000,,Rare,Combat,3
+Arrow-Catching Shield,6000,,Rare,Combat,3
+Bead of Force,960,,Rare,Consumable,3
+Belt of Dwarvenkind,6000,,Rare,Combat,3
+Boots of Levitation,4000,,Rare,Non-Combat,3
+Boots of Speed,4000,,Rare,Combat,3
+Bowl of Commanding Water Elementals,8000,,Rare,Summoning,3
+Bracers of Defense,6000,,Rare,Combat,3
+Brazier of Commanding Fire Elementals,8000,,Rare,Summoning,3
+Cape of the Mountebank,8000,,Rare,Non-Combat,3
+Censer of Controlling Air Elementals,8000,,Rare,Summoning,3
+Chime of Opening,1500,,Rare,Consumable,3
+Cloak of Displacement,60000,,Rare,Combat,3
+Cloak of the Bat,6000,,Rare,Non-Combat,3
+Cube of Force,16000,,Rare,Non-Combat,3
+Daern’s instant fortress,75000,,Rare,Game-Changers,3
+Dagger of Venom,2500,,Rare,Combat,3
+Dimensional Shackles,3000,,Rare,Non-Combat,3
+Dragon Slayer,8000,,Rare,Combat,3
+Elixir of Health,120,,Rare,Consumable,3
+Elven Chain,4000,,Rare,Combat,3
+Figurine of wondrous power (bronze griffon),8000,,Rare,Game-Changers,3
+Figurine of wondrous power (ebony fly),6000,,Rare,Game-Changers,3
+Figurine of wondrous power (golden lions),600,,Rare,Summoning,3
+Figurine of wondrous power (ivory goats),400,travail,Rare,Summoning,3
+Figurine of wondrous power (ivory goats),1000,travelling,Rare,Summoning,3
+Figurine of wondrous power (ivory goats),20000,terror,Rare,Summoning,3
+Figurine of wondrous power (marble elephant),6000,,Rare,Summoning,3
+Figurine of wondrous power (onyx dog),3000,,Rare,Summoning,3
+Figurine of wondrous power (serpentine owl),8000,,Rare,Game-Changers,3
+Flame Tongue,5000,,Rare,Combat,3
+Folding Boat,10000,,Rare,Non-Combat,3
+Gem of Seeing,32000,,Rare,Non-Combat,3
+Giant Slayer,7000,,Rare,Combat,3
+Glamoured Studded Leather,2000,,Rare,Combat,3
+Helm of Teleportation,64000,,Rare,Game-Changers,3
+Heward’s handy haversack,2000,,Rare,Non-Combat,3
+Horn of Blasting,450,,Rare,Consumable,3
+Horn of valhalla (silver or brass),5600,silver,Rare,Summoning,3
+Horn of valhalla (silver or brass),8400,brass,Rare,Summoning,3
+Horseshoes of Speed,5000,,Rare,Non-Combat,3
+Instrument of the bard (Canaith mandolin),30000,Instrument,Rare,Combat,3
+Instrument of the bard (Cli lyre),35000,Instrument,Rare,Combat,3
+Ioun Stone (protection),1200,,Rare,Combat,3
+Ioun Stone (sustenance),1000,,Rare,Non-Combat,3
+Ioun Stone Awareness,12000,,Rare,Combat,3
+Ioun Stone Reserve,6000,,Rare,Combat,3
+Iron Bands of Bilarro,4000,,Rare,Combat,3
+Mace of Disruption,8000,,Rare,Combat,3
+Mace of Smiting,7000,,Rare,Combat,3
+Mace of Terror,8000,,Rare,Combat,3
+Mantle of Spell Resistance,30000,,Rare,Combat,3
+Necklace of Fireballs,300,1 bead,Rare,Consumable,3
+Necklace of Fireballs,480,2 beads,Rare,Consumable,3
+Necklace of Fireballs,960,3 beads,Rare,Consumable,3
+Necklace of Fireballs,1600,4 beads,Rare,Consumable,3
+Necklace of Fireballs,3840,5 beads,Rare,Consumable,3
+Necklace of Fireballs,7680,,Rare,Consumable,3
+Necklace of prayer beads,1500,Smiting,Rare,Combat,3
+Necklace of prayer beads,2000,Bless,Rare,Combat,3
+Necklace of prayer beads,32000,favor,Rare,Combat,3
+Necklace of prayer beads,96000,Wind Walking,Rare,Combat,3
+Necklace of prayer beads,128000,Summons,Rare,Combat,3
+Oil of Etherealness,1920,,Rare,Consumable,3
+Periapt of Proof Against Poison,5000,,Rare,Non-Combat,3
+Portable Hole,8000,,Rare,Non-Combat,3
+Potion of Clairvoyance,960,Potion,Rare,Consumable,3
+Potion of Diminution,270,Potion,Rare,Consumable,3
+Potion of Gaseous Form,300,Potion,Rare,Consumable,3
+Potion of Heroism,180,Potion,Rare,Consumable,3
+Potion of Invulnerability,3840,,Rare,Consumable,3
+Potion of Mind Reading,180,Potion,Rare,Consumable,3
+Potion of Superior Healing,750,Healing Potion,Rare,Consumable,3
+Prayer Bead - Curing,4000,,Rare,Combat,3
+Quaals feather token,250,Fan,Rare,Consumable,3
+Quaals feather token,250,Whip,Rare,Consumable,3
+Quaals feather token,3000,Swan Boat,Rare,Consumable,3
+Quaals feather token,3000,Bird,Rare,Consumable,3
+Ring of Animal Influence,4000,,Rare,Non-Combat,3
+Ring of Evasion,5000,,Rare,Combat,3
+Ring of Feather Falling,2000,,Rare,Non-Combat,3
+Ring of Free Action,20000,,Rare,Combat,3
+Ring of Protection,3500,,Rare,Combat,3
+Ring of Resistance,6000,,Rare,Combat,3
+Ring of Spell Storing,24000,,Rare,Combat,3
+Ring of the Ram,5000,,Rare,Combat,3
+Ring of X-Ray Vision,6000,,Rare,Non-Combat,3
+Robe of Eyes,30000,,Rare,Non-Combat,3
+Rod of Rulership,16000,Spell Weapon,Rare,Non-Combat,3
+Rod of the Pact Keeper +2,16000,Spell Weapon,Rare,Combat,3
+Rod of the Pact Keeper +2,28000,Spell Weapon,Rare,Combat,3
+Rope of Entanglement,4000,,Rare,Combat,3
+Scroll of Protection,180,,Rare,Consumable,3
+Shield +2,6000,,Rare,Game-Changers,3
+Shield of Missile Attraction,6000,,Rare,Combat,3
+Spell Scroll (4th Level),320,Scroll,Rare,Consumable,3
+Spell Scroll (5th Level),640,Scroll,Rare,Consumable,3
+Staff of Charming,12000,Spell Weapon,Rare,Combat,3
+Staff of Healing,13000,Spell Weapon,Rare,Combat,3
+Staff of Swarming Insects,16000,Spell Weapon,Rare,Combat,3
+Staff of the Woodlands,44000,Spell Weapon,Rare,Combat,3
+Staff of Withering,3000,Spell Weapon,Rare,Combat,3
+Stone of Controlling Earth Elementals,8000,,Rare,Summoning,3
+Sunblade,12000,,Rare,Combat,3
+Sword of life stealing,1000,,Rare,Combat,3
+Sword of Wounding,2000,,Rare,Combat,3
+Tentacle Rod,5000,,Rare,Combat,3
+Vicious Weapon,350,,Rare,Combat,3
+Wand of Binding,10000,Spell Weapon,Rare,Combat,3
+Wand of Enemy Detection,4000,Spell Weapon,Rare,Combat,3
+Wand of Fear,10000,Spell Weapon,Rare,Combat,3
+Wand of Fireballs,32000,Spell Weapon,Rare,Combat,3
+Wand of Lightning Bolts,32000,Spell Weapon,Rare,Combat,3
+Wand of Paralysis,16000,Spell Weapon,Rare,Combat,3
+Wand of the War Mage +2,4800,Spell Weapon,Rare,Combat,3
+Weapon +2,4000,,Rare,Combat,3
+Wings of Flying,5000,,Rare,Game-Changers,3
+Ammunition +3,400,,Very Rare,Consumable,4
+Amulet of the Planes,160000,,Very Rare,Game-Changers,4
+Animated Shield,6000,,Very Rare,Combat,4
+Armor +2,6000,,Very Rare,Game-Changers,4
+Arrow of Slaying,600,,Very Rare,Consumable,4
+Carpet of Flying,12000,,Very Rare,Game-Changers,4
+Cloak of Arachnida,5000,,Very Rare,Non-Combat,4
+Dancing Sword,2000,,Very Rare,Combat,4
+Dragon Scale Mail,4000,,Very Rare,Combat,4
+Dwarven Plate,9000,,Very Rare,Game-Changers,4
+Dwarven Thrower,18000,,Very Rare,Combat,4
+Figurine of wondrous power (obsidian steed),128000,,Very Rare,Game-Changers,4
+Frost Brand,2200,,Very Rare,Combat,4
+Horn of valhalla (bronze),11200,,Very Rare,Summoning,4
+Horseshoes of a zephyr,1500,,Very Rare,Non-Combat,4
+Instrument of the bard (Anstruth harp),109000,Instrument,Very Rare,Combat,4
+Ioun Stone (absorption),2400,,Very Rare,Consumable,4
+Ioun Stone (agility),3000,,Very Rare,Combat,4
+Ioun Stone (fortitude),3000,,Very Rare,Combat,4
+Ioun Stone (insight),3000,,Very Rare,Combat,4
+Ioun Stone (intellect),3000,,Very Rare,Combat,4
+Ioun Stone (leadership),3000,,Very Rare,Combat,4
+Ioun Stone (strength),3000,,Very Rare,Combat,4
+Mirror of Life Trapping,18000,,Very Rare,Non-Combat,4
+Nine Lives Stealer,8000,(Fully Charged),Very Rare,Combat,4
+Nolzur’s marvelous pigments,200,,Very Rare,Consumable,4
+Oathbow,3500,,Very Rare,Combat,4
+Oil of Sharpness,3200,,Very Rare,Consumable,4
+Potion of Flying,500,,Very Rare,Consumable,4
+Potion of Invisibility,180,,Very Rare,Consumable,4
+Potion of Longevity,9000,,Very Rare,Game-Changers,4
+Potion of Speed,400,,Very Rare,Consumable,4
+Potion of Supreme Healing,1500,Healing Potion,Very Rare,Consumable,4
+Potion of Vitality,960,,Very Rare,Consumable,4
+Ring of Regeneration,12000,,Very Rare,Game-Changers,4
+Ring of Shooting Stars,14000,,Very Rare,Combat,4
+Ring of Telekinesis,80000,,Very Rare,Game-Changers,4
+Robe of Scintillating Colors,6000,,Very Rare,Combat,4
+Robe of Stars,60000,,Very Rare,Combat,4
+Rod of Absorption,50000,Spell Weapon,Very Rare,Consumable,4
+Rod of Alertness,25000,Spell Weapon,Very Rare,Combat,4
+Rod of Security,90000,Spell Weapon,Very Rare,Game-Changers,4
+Scimitar of Speed,6000,,Very Rare,Combat,4
+Shield +3,24000,,Very Rare,Game-Changers,4
+Spell Scroll (6th Level),1280,Scroll,Very Rare,Consumable,4
+Spell Scroll (7th Level),2560,Scroll,Very Rare,Consumable,4
+Spell Scroll (8th Level),5120,Scroll,Very Rare,Consumable,4
+Spellguard Shield,50000,,Very Rare,Combat,4
+Staff of Fire,16000,Spell Weapon,Very Rare,Combat,4
+Staff of Frost,26000,Spell Weapon,Very Rare,Combat,4
+Staff of Power,95500,Spell Weapon,Very Rare,Game-Changers,4
+Staff of Striking,21000,Spell Weapon,Very Rare,Combat,4
+Staff of Thunder and Lightning,10000,Spell Weapon,Very Rare,Combat,4
+Sword of Sharpness,1700,,Very Rare,Combat,4
+Wand of Polymorph,32000,Spell Weapon,Very Rare,Combat,4
+Wand of the War Mage +3,19200,Spell Weapon,Very Rare,Combat,4
+Weapon +3,16000,,Very Rare,Combat,4
+Apparatus of Kwalish,10000,,Legendary,Non-Combat,5
+Armor +3,24000,,Legendary,Game-Changers,5
+Armor of Invulnerability,18000,,Legendary,Game-Changers,5
+Cloak of Invisibility,80000,,Legendary,Game-Changers,5
+Cubic Gate,40000,,Legendary,Game-Changers,5
+Defender,24000,,Legendary,Game-Changers,5
+Efreeti Chain,20000,,Legendary,Combat,5
+Hammer of Thunderbolts,16000,,Legendary,Combat,5
+Holy Avenger,165000,,Legendary,Combat,5
+Horn of valhalla (iron),14000,,Legendary,Summoning,5
+Instrument of the bard (Ollamh harp),125000,Instrument,Legendary,Combat,5
+Ioun Stone (mastery),15000,,Legendary,Combat,5
+Ioun Stone Greater Absorption,31000,,Legendary,Consumable,5
+Ioun Stone Regeneration,4000,,Legendary,Combat,5
+Plate Armor of Etherealness,48000,,Legendary,Non-Combat,5
+Ring of Air Elemental Command,35000,,Legendary,Game-Changers,5
+Ring of Earth Elemental Command,31000,,Legendary,Game-Changers,5
+Ring of Fire Elemental Command,17000,,Legendary,Combat,5
+Ring of Invisibility,10000,,Legendary,Non-Combat,5
+Ring of Spell Turning,30000,,Legendary,Combat,5
+Ring of Water Elemental Command,25000,,Legendary,Combat,5
+Robe of the Archmagi,34000,,Legendary,Game-Changers,5
+Rod of Lordly Might,28000,Spell Weapon,Legendary,Combat,5
+Scarab of Protection,36000,,Legendary,Combat,5
+Sovereign Glue,400,,Legendary,Consumable,5
+Spell Scroll (9th Level),10240,Scroll,Legendary,Consumable,5
+Sphere of Annihilation,15000,,Legendary,Game-Changers,5
+Sword of Answering,36000,,Legendary,Combat,5
+Talisman of Pure Good,71680,,Legendary,Consumable,5
+Talisman of the Sphere,20000,,Legendary,Game-Changers,5
+Talisman of Ultimate Evil,61440,,Legendary,Consumable,5
+Universal Solvent,300,,Legendary,Consumable,5
+Vorpal Sword,24000,,Legendary,Combat,5
+Crystal Ball,50000,,Very Rare,Game-Changers,4
+Quaals feather token,50,Anchor,Rare,Consumable,3

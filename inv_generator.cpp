@@ -27,7 +27,7 @@ int main () {
   	int file_size=0;
   	ifstream myfile;
   	int comma_flag = 0;
- 	myfile.open("C:\\Users\\Highlord\\Documents\\DnD\\shoplist\\magical item inventory - All.csv");
+ 	myfile.open(".\\magical item inventory - All.csv");
 
   	if (myfile.is_open()){
 		while ( myfile.good()){

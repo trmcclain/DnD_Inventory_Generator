@@ -130,6 +130,7 @@ int main () {
 		cout<<'\t'<<"2. Average"<<endl;
 		cout<<'\t'<<"3. Wealthy"<<endl;
 		cout<<'\t'<<"4. Collector"<<endl;
+		cout<<"Selection: ";
 		cin>>rarity;
 		
 		switch(rarity){
@@ -163,6 +164,7 @@ int main () {
 		cout<<'\t'<<"2. Blacksmith"<<endl;
 		cout<<'\t'<<"3. Enchanter"<<endl;
 		cout<<'\t'<<"4. General"<<endl;
+		cout<<"Selection: ";
 		cin>>shop;
 		
 		switch(shop){
@@ -219,6 +221,7 @@ void listGenerator(int size, string wealth, string shop_type, item item_list[]){
 	char print;
 	int j=0;
 	int shopsize=0;
+	int temp_size=0;
 	int tier1 =0; //common-uncommon
 	int tier2 =0; //rare
 	int tier3 =0; //very rare
@@ -338,43 +341,47 @@ void listGenerator(int size, string wealth, string shop_type, item item_list[]){
 	
 	int maxweight =0;
 	if(wealth == "Meager"){
-		shopsize = rand() % 5 + 5;
-		//cout<<"Shop size: "<<shopsize<<endl;
-		tier1 = floor(shopsize*.95);
+		temp_size = rand() % 5 + 5;
+		//cout<<"Shop size: "<<temp_size<<endl;
+		tier1 = floor(temp_size*.95);
 		if(shop_type == "Apothecary")
-			tier1=shopsize;
-		tier2 = shopsize-tier1;
+			tier1=temp_size;
+		tier2 = temp_size-tier1;
+		shopsize = tier1 + tier2;
 		//cout<<"Tier 2: "<<endl;
 		maxweight = 3;
 	}
 	if(wealth == "Average"){
-		shopsize = rand() % 4 + 8;
-		cout<<"Shop size: "<<shopsize<<endl;
-		tier1=floor(shopsize*.75);
-		tier2=floor(shopsize*.25);
+		temp_size = rand() % 4 + 8;
+		cout<<"Shop size: "<<temp_size<<endl;
+		tier1=floor(temp_size*.75);
+		tier2=floor(temp_size*.25);
+		shopsize = tier1 + tier2;
 		//cout<<"Tier 2: "<<tier2<<endl;
-		//tier3=shopsize-tier1-tier2;
+		//tier3=temp_size-tier1-tier2;
 		maxweight = 4;
 		
 	}
 	if(wealth == "Wealthy"){
-		shopsize = rand() % 6 + 12;
-		cout<<"Shop size: "<<shopsize<<endl;
-		tier1=floor(shopsize*.60);
-		tier2=floor(shopsize*.25);
-		tier3=floor(shopsize*.1);
-		tier4= shopsize-tier1-tier2-tier3;
+		temp_size = rand() % 6 + 12;
+		cout<<"Shop size: "<<temp_size<<endl;
+		tier1=floor(temp_size*.60);
+		tier2=floor(temp_size*.25);
+		tier3=floor(temp_size*.1);
+		tier4= temp_size-tier1-tier2-tier3;
+	 	shopsize = tier1 + tier2 + tier3 + tier4;
 		//cout<<"Tier 2: "<<tier2<<"\t"<<"Tier 3: "<<tier3<<"\t"<<"Tier 4: "<<tier4<<endl;
 		maxweight = 5;
 
 	}
 	if(wealth == "Collector"){
-		shopsize = rand() % 5 + 15;
-		cout<<"Shop size: "<<shopsize<<endl;
-		tier1=floor(shopsize*.45);
-		tier2=floor(shopsize*.25);
-		tier3=floor(shopsize*.2);
-		tier4= shopsize-tier1-tier2-tier3;
+		temp_size = rand() % 5 + 15;
+		cout<<"Shop size: "<<temp_size<<endl;
+		tier1=floor(temp_size*.45);
+		tier2=floor(temp_size*.25);
+		tier3=floor(temp_size*.2);
+		tier4= temp_size-tier1-tier2-tier3;
+		shopsize = tier1 + tier2 + tier3 + tier4;
 		//cout<<"Tier 2: "<<tier2<<"\t"<<"Tier 3: "<<tier3<<"\t"<<"Tier 4: "<<tier4<<endl;
 		maxweight = 5;
 	}
@@ -383,14 +390,14 @@ void listGenerator(int size, string wealth, string shop_type, item item_list[]){
 	//int index=0;
 	cout<<"Inventory List:"<<endl;
 	cout<<"Name"<<"\t"<<"Rarity"<<"\t"<<"Price"<<endl;
-	while(size_check <=shopsize){
-		if(size_check >= shopsize){
-			break;
-		}
+	//while(size_check <=shopsize){
+		//if(size_check >= shopsize){
+		//	break;
+		//}
 		for(int i=0; i<tier1; i++){
 			int element=0;
 			do{
-			//	cout<<"****IN TIER1 DO-WHILE****"<<endl;
+				//cout<<"****IN TIER1 DO-WHILE****"<<endl;
 				element = rand() % new_pool_size;
 				if(weightCheck(new_list[element], 2) && !dupCheck(invlist, new_list[element], shopsize)){
 					invlist[size_check] = new_list[element];
@@ -404,7 +411,8 @@ void listGenerator(int size, string wealth, string shop_type, item item_list[]){
 			}while(new_list[element].rarity_weight > 2);
 			
 		}
-		//cout<<"Tier 1 Set."<<endl;
+	//	cout<<"Tier 1 Set."<<endl;
+		
 		for(int i=0; i<tier2; i++){
 			int element=0;
 			do{
@@ -421,7 +429,8 @@ void listGenerator(int size, string wealth, string shop_type, item item_list[]){
 			}while(new_list[element].rarity_weight != 3);
 			
 		}
-		//cout<<"Tier 2 Set."<<endl;
+	//	cout<<"Tier 2 Set."<<endl;
+		
 		if(tier3 > 0){	
 			for(int i=0; i<tier3; i++){
 				int element=0;
@@ -443,9 +452,8 @@ void listGenerator(int size, string wealth, string shop_type, item item_list[]){
 				}while(new_list[element].rarity_weight != 4);
 				
 			}
-			//cout<<"Tier 3 Set."<<endl;
+		//	cout<<"Tier 3 Set."<<endl;
 			for(int i=0; i<tier4; i++){
-				//cout<<"***In Legendary Loop***"<<endl;
 				int element=0;
 				do{
 					element = rand() % new_pool_size;
@@ -461,11 +469,11 @@ void listGenerator(int size, string wealth, string shop_type, item item_list[]){
 			}
 			//cout<<"Tier 4 Set."<<endl;
 		}
-		if(size_check == shopsize){
-			break;
-		}
+		//if(size_check == shopsize){
+		//	break;
+	//	}
 		
-	}
+	//}
 	cout<<"Print to outfile? (y/n): ";
 	cin>>print;
 	if(print=='y')
@@ -557,4 +565,3 @@ void printList(item invlist[], int sSize, string wealth, string shop_type){
 	}
 	txtOut.close();
 }
-
